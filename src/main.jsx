@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
 import Home from './home/Home';
-import Produk from './produk/produk';
+import Produk from './produk/Produk';
 import SingleProduk from './produk/SingleProduk.jsx';
 import CartPage from './produk/CartPage.jsx';
 import AuthProvider from './context/AuthProvider.jsx';
